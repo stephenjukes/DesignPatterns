@@ -4,3 +4,4 @@ This repository shows the code I have written to practice a number of design pat
 
 * [Adapter Pattern](https://repl.it/@dukies_2000/AdapterPattern)
 * [Bridge Pattern](https://repl.it/@dukies_2000/BridgePattern)
+* [Command Pattern](https://repl.it/@dukies_2000/CommandPattern)
